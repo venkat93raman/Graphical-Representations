@@ -1,1 +1,1 @@
-# Heatmap
+# Graphical representations
